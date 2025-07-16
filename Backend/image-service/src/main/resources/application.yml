@@ -1,0 +1,42 @@
+spring:
+  application:
+    name: image-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/image_db
+    username: root
+    password: 1718
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+
+server:
+  port: 8085
+
+aws:
+  region: ${AWS_REGION}
+  credentials:
+    access-key: ${AWS_ACCESS_KEY_ID}
+    secret-key: ${AWS_SECRET_ACCESS_KEY}
+  s3:
+    buckets:
+      user: my-mycart-ecommerce-app
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+    register-with-eureka: true
+    fetch-registry: true
+  instance:
+    prefer-ip-address: true
+
+auth:
+  service:
+    base-url: http://localhost:8084/api/authUsers

@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "title": "How to write a Blog Post Your Readers Will Love in 5 steps",
+        "image":"/images/blog-1.jpeg",
+        "categories":[
+            "Business", 
+            "Marketing",
+            "Social Media" 
+        ],
+        "author": "Editor",
+        "date": "February 9, 2024",
+        "pera": "Why the world would end without travel coupons. The 16 worst songs about spa deals. How daily me person. The evolution of cool scienc experiments. 16 facts about cool tech gadgets that'll keep you up at night. How carnivel..."
+    },
+
+    {
+        "id": 1,
+        "title": "9 Content Marketing Trends and Ideas to Increase Traffic",
+        "image":"/images/blog-2.jpeg",
+        "categories":[
+            "Business", 
+            "Information",
+            "Promotions" 
+        ],
+        "author": "Editor",
+        "date": "February 9, 2024",
+        "pera": "Why do people think wholesale accessories are a good idea? Unbelievable cool tech gadget success stories. how cool tech gadgets can help your business software.The unconventional guide to wholesale accessories. How to be unpopular in the science article world..."
+    },
+
+    {
+        "id": 3,
+        "title": "9 Content marketing trends and ideas to increase traffic",
+        "image":"/images/blog-3.jpeg",
+        "categories":[
+            "Business", 
+            "Information",
+            "Social Media" 
+        ],
+        "author": "Editor",
+        "date": "February 9, 2024",
+        "pera": "Why do people think wholesale accessories are a good idea? Unbelievable cool tech gadget success stories. how cool tech gadgets can help your business software.The unconventional guide to wholesale accessories. How to be unpopular in the science articel world..."
+    },
+
+     {
+        "id": 4,
+        "title": "50 best Sales Questions to Determine your customer's needs",
+        "image":"/images/blog-4.jpeg",
+        "categories":[
+            "Business", 
+            "Information",
+            "Statistics" 
+        ],
+        "author": "Editor",
+        "date": "February 9, 2024",
+        "pera": "The unconventional guide to the software applications. Why do people think business software is a good idea? why technology tips will make you.about best stories. The complete beginner's guide to wholesale accessories. why your storage device never works out the...."
+    },
+
+    {
+        "id": 5,
+        "title": "6 simple ways to boost your ecommerce conversion rate",
+        "image":"/images/blog-5.jpeg",
+        "categories":[
+            "Business", 
+            "Information",
+            "Social Media" 
+        ],
+        "author": "Editor",
+        "date": "February 9, 2024",
+        "pera": "connection with potential customers by showing how your product or service can fit into their lives and help time achieve..."
+    },
+
+    {
+        "id": 6,
+        "title": "9 customer experience trends ",
+        "image":"/images/blog-6.jpeg",
+        "categories":[
+            "Business", 
+            "Information",
+            "Social Media" 
+        ],
+        "author": "Editor",
+        "date": "February 9, 2024",
+        "pera": "connection with potential customers by showing how your product or service can fit into their lives and help time achieve..."
+    },
+    {
+        "id": 7,
+        "title": "A step-by-step guide to creating a blog on wordpress",
+        "image":"/images/blog-7.jpeg",
+        "categories":[
+            "Business", 
+            "Information",
+            "Social Media" 
+        ],
+        "author": "Editor",
+        "date": "February 9, 2024",
+        "pera": "connection with potential customers by showing how your product or service can fit into their lives and help time achieve..."
+    },
+    {
+        "id": 8,
+        "title": "How to write a Blog post outline: A simple formula to follow",
+        "image":"/images/blog-8.jpeg",
+        "categories":[
+            "Business", 
+            "Information",
+            "Social Media" 
+        ],
+        "author": "Editor",
+        "date": "February 9, 2024",
+        "pera": "connection with potential customers by showing how your product or service can fit into their lives and help time achieve..."
+    },
+   {
+        "id": 9,
+        "title": "SEO writing: 12 Tips on writing Blog posts that rank on google",
+        "image":"/images/blog-9.jpeg",
+        "categories":[
+            "Business", 
+            "Information",
+            "Social Media" 
+        ],
+        "author": "Editor",
+        "date": "February 9, 2024",
+        "pera": "connection with potential customers by showing how your product or service can fit into their lives and help time achieve..."
+    },
+    {
+        "id": 10,
+        "title": "How to Create a Social Media Calender to Plan Your Content",
+        "image":"/images/blog-10.jpeg",
+        "categories":[
+            "Business", 
+            "Information",
+            "Social Media" 
+        ],
+        "author": "Editor",
+        "date": "February 9, 2024",
+        "pera": "connection with potential customers by showing how your product or service can fit into their lives and help time achieve..."
+    }
+]

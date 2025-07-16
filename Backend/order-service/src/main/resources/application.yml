@@ -1,0 +1,33 @@
+spring:
+  application:
+    name: order-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/orders_db
+    username: root
+    password: 1718
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+
+server:
+  port: 8082
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+    register-with-eureka: true
+    fetch-registry: true
+  instance:
+    prefer-ip-address: true
+
+user:
+  service:
+    base-url: http://localhost:8083/api/userprofile
+
+product:
+  service:
+    base-url: http://localhost:8081/api/products
